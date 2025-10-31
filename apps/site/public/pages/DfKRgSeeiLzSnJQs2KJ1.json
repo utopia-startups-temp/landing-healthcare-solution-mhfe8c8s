@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "Healthcare Solution",
+    "tone": "friendly"
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "headline": "Welcome to Your Next Healthcare Revolution",
+      "subheadline": "Making healthcare accessible and hassle-free for everyone.",
+      "supportingCopy": "Join us on a journey to transform how you experience healthcare services."
+    },
+    {
+      "id": "problem",
+      "type": "problem",
+      "headline": "Navigating Healthcare Shouldn't Be Complicated",
+      "bullets": [
+        "Ever felt lost in the maze of healthcare services?",
+        "Tired of endless paperwork and confusing processes?",
+        "Wishing for a simpler way to manage your health needs?"
+      ]
+    },
+    {
+      "id": "solution",
+      "type": "solution",
+      "headline": "Your Health, Simplified",
+      "subheadline": "Healthcare Solution is here to clear the path for you.",
+      "bullets": [
+        "One platform for all your healthcare needs.",
+        "Streamlined processes, from appointments to records.",
+        "Accessible, understandable, and patient-centered care."
+      ]
+    },
+    {
+      "id": "benefits",
+      "type": "benefits",
+      "headline": "Why Choose Us?",
+      "items": [
+        {
+          "title": "Comprehensive Care",
+          "description": "From general check-ups to specialist services - all in one place."
+        },
+        {
+          "title": "User-Friendly",
+          "description": "An intuitive platform that makes managing healthcare easy."
+        },
+        {
+          "title": "Trusted Experts",
+          "description": "Access to a network of acclaimed healthcare professionals."
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "type": "cta",
+      "headline": "Ready to Simplify Your Healthcare Experience?",
+      "supportingCopy": "Be the first to know when we launch. Join our community today.",
+      "cta": {
+        "label": "Join the Waitlist",
+        "href": "https://utopia.so"
+      }
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "supportingCopy": "Healthcare Solution © 2023. All Rights Reserved."
+    }
+  ],
+  "goal": "lead-collection"
+}
